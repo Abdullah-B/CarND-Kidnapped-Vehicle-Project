@@ -23,7 +23,7 @@ the necessary code was added following the comments under each function
   
 ## The Result
 
- ![Screenshot](/OutPut&Results/result.PNG)
+ ![Screenshot](/Output&Results/result.PNG)
    
    and the Matrix outputs are documented inside OutPut & Results/ OutpuResults.txt
   
